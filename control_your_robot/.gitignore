@@ -1,0 +1,29 @@
+# Ignore all .pyc files
+*.pyc
+
+# Ignore __pycache__ directory
+__pycache__/
+
+# Ignore other Python cache files
+*.pyo
+*.pyd
+
+# datasets
+datasets/
+save/
+
+hdf5/
+
+# example/teleop
+
+# third_party
+third_party/3D-ViTac_Tactile_Hardware
+
+execution_logs/
+output/
+data/check_data.json
+policy/weights
+realsense_captures/
+piper_scripts/can_config.sh
+piper_scripts/can_config.sh
+third_party/test.py
